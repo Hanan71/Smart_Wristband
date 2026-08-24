@@ -14,12 +14,6 @@ The project documents the end-to-end architectural blueprints, data flow diagram
 
 ---
 
-## 📄 Project Document (PDF)
-You can view and download the complete System Design and Requirements Specification document directly from this repository:
-[![View PDF](https://img.shields.io/badge/View_Document-PDF-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Smart_wristeBand.pdf) 👈
-
----
-
 ## 🌟 Key Functional Specifications Included
 * 📍 **Patient Telemetry & Tracking:** Requirements for GPS location streaming and low-power beaconing.
 * 🚨 **Emergency SOS Dispatch:** Workflows for instant one-touch distress alerts to caregivers.
@@ -39,3 +33,9 @@ You can view and download the complete System Design and Requirements Specificat
 * **Institution:** Shaqra University (جامعة شقراء)
 * **College:** College of Computing and Information Technology
 * **Course:** Software Engineering
+
+<img width="988" height="544" alt="Screenshot 2026-08-24 at 4 00 32 PM" src="https://github.com/user-attachments/assets/0631ab50-b47f-4331-b444-b37869f9dc02" />
+
+## 📄 Project Document (PDF)
+You can view and download the complete System Design and Requirements Specification document directly from this repository:
+[![View PDF](https://img.shields.io/badge/View_Document-PDF-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Smart_wristeBand.pdf) 👈
