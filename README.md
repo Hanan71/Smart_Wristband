@@ -16,7 +16,8 @@ The project documents the end-to-end architectural blueprints, data flow diagram
 
 ## 📄 Project Document (PDF)
 You can view and download the complete System Design and Requirements Specification document directly from this repository:
-[![View PDF](https://img.shields.io/badge/View_Document-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Smart_wristeBand.pdf)👈
+[![View PDF](https://img.shields.io/badge/View_Document-PDF-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Smart_wristeBand.pdf) 👈
+
 ---
 
 ## 🌟 Key Functional Specifications Included
