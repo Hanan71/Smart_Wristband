@@ -37,7 +37,8 @@ The project documents the end-to-end architectural blueprints, data flow diagram
 
 <img width="988" height="544" alt="Screenshot 2026-08-24 at 4 00 32 PM" src="https://github.com/user-attachments/assets/0631ab50-b47f-4331-b444-b37869f9dc02" />
 
-<img width="1242" height="2208" alt="IMG_3134" src="https://github.com/user-attachments/assets/58b8716f-df3c-46c1-a558-3bb3ca8d814f" />
+<img width="1234" height="1809" alt="IMG_3134 copy" src="https://github.com/user-attachments/assets/3d70b1fa-d0c9-4de1-bb3c-998bafcdb5a3" />
+
 
 
 ---
