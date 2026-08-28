@@ -34,14 +34,8 @@ The project documents the end-to-end architectural blueprints, data flow diagram
 * **College:** College of Computing and Information Technology
 * **Course:** Software Engineering
 
-
-<img width="988" height="544" alt="Screenshot 2026-08-24 at 4 00 32 PM" src="https://github.com/user-attachments/assets/0631ab50-b47f-4331-b444-b37869f9dc02" />
-
-<img width="1234" height="1809" alt="IMG_3134 copy" src="https://github.com/user-attachments/assets/3d70b1fa-d0c9-4de1-bb3c-998bafcdb5a3" />
-
-
-
 ---
+
 ## 🚀 Live Simulation & Interactive Demo
 
 You can run and test or download the smart wristband simulation directly in your browser using MATLAB Online:
@@ -57,6 +51,14 @@ You can run and test or download the smart wristband simulation directly in your
 4. Open the file `Smart_wristeband.mlapp`.
 5. Click the **Run** 🟢 button in the top toolbar to launch the interactive wristband interface.
 ---
+
+
+| Matlab Simulation | Project Overview |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/0631ab50-b47f-4331-b444-b37869f9dc02" width="480" /> | <img src="https://github.com/user-attachments/assets/3d70b1fa-d0c9-4de1-bb3c-998bafcdb5a3" width="380" /> |
+
+---
+
 
 ## 📄 Project Document (PDF)
 You can view and download the complete System Design and Requirements Specification document directly from this repository:
