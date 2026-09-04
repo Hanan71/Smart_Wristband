@@ -62,4 +62,5 @@ You can run and test or download the smart wristband simulation directly in your
 
 ## 📄 Project Document (PDF)
 You can view and download the complete System Design and Requirements Specification document directly from this repository:
+---
 [![View PDF](https://img.shields.io/badge/View_Document-PDF-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Smart_wristeBand.pdf) 👈
